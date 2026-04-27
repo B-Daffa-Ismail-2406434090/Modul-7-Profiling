@@ -11,12 +11,19 @@ running:
 ```
 
 /all-student-name performance testing result
-![alt text](all-student-name.png)
+![alt text](all-student-name-tree.png)
+![alt text](all-student-name-table.png)
+![alt text](all-student-name-summary.png)
+![alt text](all-student-name-graph.png)
 
 ![alt text](all-student-name-jtl.png)
 
 /highest-gpa performance testing result
-![alt text](highest-gpa.png)
+![alt text](highest-gpa-tree.png)
+![alt text](highest-gpa-table.png)
+![alt text](highest-gpa-summary.png)
+![alt text](highest-gpa-graph.png)
+
 
 ![alt text](highest-gpa-jtl.png)
 
